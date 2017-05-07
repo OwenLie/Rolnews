@@ -1,0 +1,13 @@
+<web1>http://news.baidu.com/
+<web1title>百度新闻 -- 全球最大中文新闻平台
+<web2>
+<web2title>
+<web3>
+<web3title>
+<web4>
+<web4title>
+<web5>
+<web5title>
+<web6>
+<web6title>
+<category>no

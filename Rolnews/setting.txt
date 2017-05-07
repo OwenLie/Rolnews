@@ -1,0 +1,12 @@
+<themeColor>BLUE
+<newsFont>HUAWENXINWEI
+<menuBorder>hide
+<timeout>10000
+<headleft>true
+<useBar>true
+<topMost>true
+<resizable>true
+<enableAni>true
+<speed>normal
+<refresh>60
+<backupNewsCount>67
